@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a54e71e2-4683-4685-9e5a-6dce24d0f247" name="Default Changelist" comment="" />
+    <list default="true" id="a54e71e2-4683-4685-9e5a-6dce24d0f247" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Classes/lesson13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1ZaSfWlsToTWuDj51J4fdL4Zvta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,12 +34,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\GB\Classes\Homeworks" />
       <recent name="C:\Users\User\Desktop\GB\Third_lesson\homework" />
       <recent name="C:\Users\User\Desktop\GB\First_lesson\homework" />
       <recent name="C:\Users\User\Desktop\GB\First_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson_10_home">
+  <component name="RunManager" selected="Python.lesson13">
     <configuration name="1.2." type="PythonConfigurationType" factoryName="Python">
       <module name="GB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/lesson10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/lesson11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson6-7-8_home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/lesson6-7-8_home.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/lesson12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson12_home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/lesson9.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Desktop\GB\Classes\Homeworks\lesson12_home.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson9_home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/lesson9_home.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/lesson13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_10_home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_11_home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/lesson_10_home.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Desktop\GB\Classes\Homeworks\lesson_11_home.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson_10_home" />
-        <item itemvalue="Python.lesson10" />
-        <item itemvalue="Python.lesson9_home" />
-        <item itemvalue="Python.lesson9" />
-        <item itemvalue="Python.lesson6-7-8_home" />
+        <item itemvalue="Python.lesson13" />
+        <item itemvalue="Python.lesson12_home" />
+        <item itemvalue="Python.lesson12" />
+        <item itemvalue="Python.lesson_11_home" />
+        <item itemvalue="Python.lesson11" />
       </list>
     </recent_temporary>
   </component>
@@ -191,70 +200,154 @@
       <option name="presentableId" value="Default" />
       <updated>1585075815673</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson 11 added">
+      <created>1596464865299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596464865299</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson 11 passed">
+      <created>1596545511206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596545511207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson 11 homework">
+      <created>1596550329075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596550329075</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson 12 added and passed">
+      <created>1596643743921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596643743921</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson 12 homework">
+      <created>1596644923246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596644923246</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added folder for Homeworks">
+      <created>1596645584144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596645584144</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 11 added" />
+    <MESSAGE value="Lesson 11 passed" />
+    <MESSAGE value="Lesson 11 homework" />
+    <MESSAGE value="Lesson 12 added and passed" />
+    <MESSAGE value="Lesson 12 homework" />
+    <MESSAGE value="Added folder for Homeworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added folder for Homeworks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-766" y="172" key="#xdebugger.XInspectDialog" timestamp="1591471982644">
       <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state x="-766" y="172" key="#xdebugger.XInspectDialog/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1591471982644" />
-    <state width="1283" height="140" key="GridCell.Tab.0.bottom" timestamp="1596385425785">
-      <screen x="0" y="0" width="1304" height="768" />
+    <state x="-994" y="-93" key="CommitChangelistDialog2" timestamp="1596645582050">
+      <screen x="-1280" y="-93" width="1218" height="1024" />
+    </state>
+    <state x="-994" y="-93" key="CommitChangelistDialog2/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596645582050" />
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596464859987" />
+    <state width="1197" height="140" key="GridCell.Tab.0.bottom" timestamp="1596649750683">
+      <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state width="1194" height="472" key="GridCell.Tab.0.bottom/0.0.1303.768/-1280.-93.1215.1024@-1280.-93.1215.1024" timestamp="1595338657726" />
     <state width="1197" height="472" key="GridCell.Tab.0.bottom/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1589732235375" />
-    <state width="1197" height="140" key="GridCell.Tab.0.bottom/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596378687947" />
-    <state width="1283" height="140" key="GridCell.Tab.0.bottom/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596385425785" />
-    <state width="1283" height="140" key="GridCell.Tab.0.center" timestamp="1596385425785">
-      <screen x="0" y="0" width="1304" height="768" />
+    <state width="1197" height="140" key="GridCell.Tab.0.bottom/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596649750683" />
+    <state width="1283" height="140" key="GridCell.Tab.0.bottom/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596452938030" />
+    <state width="1197" height="140" key="GridCell.Tab.0.center" timestamp="1596649750682">
+      <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state width="1194" height="472" key="GridCell.Tab.0.center/0.0.1303.768/-1280.-93.1215.1024@-1280.-93.1215.1024" timestamp="1595338657725" />
     <state width="1197" height="472" key="GridCell.Tab.0.center/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1589732235374" />
-    <state width="1197" height="140" key="GridCell.Tab.0.center/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596378687947" />
-    <state width="1283" height="140" key="GridCell.Tab.0.center/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596385425785" />
-    <state width="1283" height="140" key="GridCell.Tab.0.left" timestamp="1596385425784">
-      <screen x="0" y="0" width="1304" height="768" />
+    <state width="1197" height="140" key="GridCell.Tab.0.center/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596649750682" />
+    <state width="1283" height="140" key="GridCell.Tab.0.center/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596452938030" />
+    <state width="1197" height="140" key="GridCell.Tab.0.left" timestamp="1596649750682">
+      <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state width="1194" height="472" key="GridCell.Tab.0.left/0.0.1303.768/-1280.-93.1215.1024@-1280.-93.1215.1024" timestamp="1595338657725" />
     <state width="1197" height="472" key="GridCell.Tab.0.left/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1589732235374" />
-    <state width="1197" height="140" key="GridCell.Tab.0.left/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596378687946" />
-    <state width="1283" height="140" key="GridCell.Tab.0.left/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596385425784" />
-    <state width="1283" height="140" key="GridCell.Tab.0.right" timestamp="1596385425785">
-      <screen x="0" y="0" width="1304" height="768" />
+    <state width="1197" height="140" key="GridCell.Tab.0.left/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596649750682" />
+    <state width="1283" height="140" key="GridCell.Tab.0.left/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596452938029" />
+    <state width="1197" height="140" key="GridCell.Tab.0.right" timestamp="1596649750682">
+      <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state width="1194" height="472" key="GridCell.Tab.0.right/0.0.1303.768/-1280.-93.1215.1024@-1280.-93.1215.1024" timestamp="1595338657726" />
     <state width="1197" height="472" key="GridCell.Tab.0.right/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1589732235374" />
-    <state width="1197" height="140" key="GridCell.Tab.0.right/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596378687947" />
-    <state width="1283" height="140" key="GridCell.Tab.0.right/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596385425785" />
-    <state width="1197" height="341" key="GridCell.Tab.1.bottom" timestamp="1588782525701">
+    <state width="1197" height="140" key="GridCell.Tab.0.right/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596649750682" />
+    <state width="1283" height="140" key="GridCell.Tab.0.right/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596452938030" />
+    <state width="1197" height="341" key="GridCell.Tab.1.bottom" timestamp="1596550427350">
       <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state width="1197" height="341" key="GridCell.Tab.1.bottom/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1588782525701" />
-    <state width="1197" height="341" key="GridCell.Tab.1.center" timestamp="1588782525700">
+    <state width="1197" height="341" key="GridCell.Tab.1.bottom/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596550427350" />
+    <state width="1197" height="341" key="GridCell.Tab.1.center" timestamp="1596550427350">
       <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state width="1197" height="341" key="GridCell.Tab.1.center/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1588782525700" />
-    <state width="1197" height="341" key="GridCell.Tab.1.left" timestamp="1588782525700">
+    <state width="1197" height="341" key="GridCell.Tab.1.center/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596550427350" />
+    <state width="1197" height="341" key="GridCell.Tab.1.left" timestamp="1596550427350">
       <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state width="1197" height="341" key="GridCell.Tab.1.left/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1588782525700" />
-    <state width="1197" height="341" key="GridCell.Tab.1.right" timestamp="1588782525700">
+    <state width="1197" height="341" key="GridCell.Tab.1.left/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596550427350" />
+    <state width="1197" height="341" key="GridCell.Tab.1.right" timestamp="1596550427350">
       <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state width="1197" height="341" key="GridCell.Tab.1.right/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1588782525700" />
+    <state width="1197" height="341" key="GridCell.Tab.1.right/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596550427350" />
+    <state x="491" y="95" key="RollbackChangesDialog" timestamp="1596464929073">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="491" y="95" key="RollbackChangesDialog/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596464929073" />
     <state x="-1137" y="-58" key="SettingsEditor" timestamp="1588168254101">
       <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state x="-1137" y="-58" key="SettingsEditor/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1588168254101" />
-    <state x="-1012" y="118" key="com.intellij.ide.util.TipDialog" timestamp="1596030847937">
-      <screen x="-1280" y="-93" width="1218" height="1024" />
+    <state x="287" y="158" key="com.intellij.ide.util.TipDialog" timestamp="1596639954092">
+      <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="-1013" y="118" key="com.intellij.ide.util.TipDialog/0.0.1303.768/-1280.-93.1215.1024@-1280.-93.1215.1024" timestamp="1595321180607" />
     <state x="-1012" y="118" key="com.intellij.ide.util.TipDialog/0.0.1303.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1593108580275" />
-    <state x="-1012" y="118" key="com.intellij.ide.util.TipDialog/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596030847937" />
-    <state x="-1010" y="128" width="672" height="678" key="search.everywhere.popup" timestamp="1594924474042">
-      <screen x="-1280" y="-93" width="1215" height="1024" />
+    <state x="287" y="158" key="com.intellij.ide.util.TipDialog/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596639954092" />
+    <state x="287" y="158" key="com.intellij.ide.util.TipDialog/0.0.1304.768/-1280.-93.1218.1024@0.0.1304.768" timestamp="1596464750841" />
+    <state x="-862" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596649992624">
+      <screen x="-1280" y="-93" width="1218" height="1024" />
+    </state>
+    <state x="-862" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596649992624" />
+    <state x="-1009" y="128" width="674" height="678" key="search.everywhere.popup" timestamp="1596644644296">
+      <screen x="-1280" y="-93" width="1218" height="1024" />
     </state>
     <state x="-1010" y="128" width="672" height="678" key="search.everywhere.popup/0.0.1303.768/-1280.-93.1215.1024@-1280.-93.1215.1024" timestamp="1594924474042" />
+    <state x="-1009" y="128" width="674" height="678" key="search.everywhere.popup/0.0.1304.768/-1280.-93.1218.1024@-1280.-93.1218.1024" timestamp="1596644644296" />
   </component>
 </project>
